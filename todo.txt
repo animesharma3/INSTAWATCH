@@ -1,0 +1,3 @@
+1. Upload the already collected data to google sheet and firebase
+2. Scrape trailer for already fetched movies
+3. [cronjob] Continously update the google sheet/firebase with new movies
